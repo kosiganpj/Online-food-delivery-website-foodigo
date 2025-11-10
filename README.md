@@ -21,20 +21,3 @@ Frontend: React.js, JavaScript, HTML, CSS
 Tooling: Vite
 
 State Management: React Hooks (useState, useContext)
-
-🚀 Getting Started
-Clone the repository
-git clone <your-repo-url>
-cd <project-folder>
-
-Install dependencies
-npm install
-
-Start development server
-npm run dev
-
-Build for production
-npm run build
-
-Preview production build
-npm run preview
