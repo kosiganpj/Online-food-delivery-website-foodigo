@@ -1,16 +1,22 @@
-# React + Vite
+# 🍽️ Foodigo — Online Food Delivery Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern food delivery web application built using **React.js**, **Vite**, **JavaScript**, **HTML**, and **CSS**. Foodigo lets users browse dishes, explore categories, manage their cart, and enjoy a smooth, app-like interface with fast loading and clean navigation.
 
-Currently, two official plugins are available:
+## ✨ Features
+- Interactive menu with categorized food items  
+- Add to Cart, Remove, and Quantity Update  
+- Responsive UI for mobile, tablet, and desktop  
+- Modern component-based architecture  
+- Lightning-fast development and builds using Vite  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript, HTML, CSS  
+- **Tooling:** Vite  
+- **State Management:** React Hooks (useState, useContext)  
 
-## React Compiler
+## 🚀 Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Clone the repository
+```bash
+git clone <your-repo-url>
+cd <project-folder>
